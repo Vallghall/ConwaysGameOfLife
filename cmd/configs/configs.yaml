@@ -1,0 +1,9 @@
+window:
+  title: "Game of Life"
+  width: 500
+  height: 500
+
+cell:
+  size: 10
+  dead-sprite: "configs/dead.png"
+  alive-sprite: "configs/alive.png"
